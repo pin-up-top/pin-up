@@ -1,6 +1,6 @@
 <h1><strong>Pin Up Mobil Tətbiqi Haqqında</strong></h1>
 
-<p><strong><a href="https://humanics-es.com/">Baywin </a></strong> mərc platforması 2016-cı ildə <strong>Carletta N.V.</strong> tərəfindən təsis olunmuşdur və o vaxtdan etibarən dünyanın müxtəlif regionlarında milyonlarla istifadəçiyə xidmət göstərməkdədir.</p>
+<p><strong><a href="https://humanics-es.com/">Pin-up </a></strong> mərc platforması 2016-cı ildə <strong>Carletta N.V.</strong> tərəfindən təsis olunmuşdur və o vaxtdan etibarən dünyanın müxtəlif regionlarında milyonlarla istifadəçiyə xidmət göstərməkdədir.</p>
 <p>Şirkət <strong>Curacao</strong> hökuməti tərəfindən verilmiş etibarlı bir lisenziyaya sahibdir və bununla da öz fəaliyyətini rəsmi və təhlükəsiz bir şəkildə həyata keçirir.</p>
 <p><strong>Pin Up</strong> platforması həm idman mərcləri, həm də kazinolar üzrə geniş mərc seçimləri ilə tanınır.</p>
 <p>Həm <strong>Android</strong>, həm də <strong>iOS</strong> istifadəçiləri üçün <strong>Pin Up</strong> mobil tətbiqi mövcuddur və bu, mərc həvəskarlarına harada olmaqlarından asılı olmayaraq öz sevimli oyunlarına və mərclərinə asanlıqla çıxış imkanı verir.</p>
